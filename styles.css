@@ -1,0 +1,63 @@
+header, footer{
+  width:1024px;
+  background-color: #cccccc;
+  display:inline-block;
+  
+}
+
+body {
+	width:1024px;
+}
+
+li {
+	float:left;
+	margin-left:50px;
+	font-weight: bold;
+}
+
+h1{
+	text-align:center;
+	font-weight:bold;
+	color: red;
+}
+
+.sections{
+	display:inline-block;
+}
+
+.sectoin-pic{
+	width: 15%;
+	float: left;
+	padding-right: 10px;
+}
+
+.input-block {
+	padding: 10px;
+}
+
+#logo {
+	width:22%;
+	float:left;
+}
+#menu{
+	float:left; 
+	margin-top:35px;
+}
+
+#user-logo{
+	width:10%;
+	float:right;
+	margin-right:25px;
+	margin-top:5px;
+}
+
+#sign-in-up{
+	float:right;
+	margin-right:20px;
+	font-weight: bold;
+}
+
+#map-pic{
+	max-width:1024px;
+	margin-top:5px;
+}
